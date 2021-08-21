@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: KubeNotes
+  name: kubenotes
 data:
   storage: Ways to provide both long-term and temporary storage to Pods in your cluster.
   security: Concepts for keeping your cloud-native workload secure.
